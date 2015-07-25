@@ -1,0 +1,2 @@
+class MentorshipMailer < ApplicationMailer
+end
