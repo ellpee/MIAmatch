@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  bio: MyText
+  experience: MyText
+  accomplishments: MyText
+  professional_summary: MyText
+  role: MyString
+  admin: false
+  company: MyString
+  position: MyString
+  cohort: 1
+  available: false
+  technologies: MyText
+  image_url: MyString
+  hopes_for_mentorship: MyText
+  hopes_for_future: MyText
+  how_do_you_know: MyString
+
+two:
+  first_name: MyString
+  last_name: MyString
+  bio: MyText
+  experience: MyText
+  accomplishments: MyText
+  professional_summary: MyText
+  role: MyString
+  admin: false
+  company: MyString
+  position: MyString
+  cohort: 1
+  available: false
+  technologies: MyText
+  image_url: MyString
+  hopes_for_mentorship: MyText
+  hopes_for_future: MyText
+  how_do_you_know: MyString
